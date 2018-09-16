@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537026670 source:c:\users\fabri\documents\universidad\arquitectura de computadores\multiplicaciónb\main.cpp
+	<iostream>
+	<bitset>
+	<string>
+
